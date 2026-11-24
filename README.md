@@ -32,8 +32,10 @@ A vision-guided assembly system designed for the **Zhejiang Provincial Undergrad
 ---
 
 ## Acknowledgements
-*   **Academic Advisors:** Mr.Zhu at ZJGSU, for his valuable guidance on system integration.
-*   **Team Members:** Miss. YU & Mr.Shi, for their collaboration in mechanical design and integration testing.
+*   **Academic Advisors:** *Mr.Zhu* at *ZJGSU*, for his valuable guidance on system integration.
+*   **Team Members:** *Miss. YU & Mr.Shi*, for their collaboration in mechanical design and integration testing.
 
+## About repository
+*   This repository includes competition code (vision part) and the training dataset for Maxicam module.
 ---
 *Maintained by FishInCode.*
