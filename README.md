@@ -10,7 +10,7 @@ A vision-guided assembly system designed for the **Zhejiang Provincial Undergrad
 *   **Edge Device:** MaixCam (RISC-V embedded vision module)
 *   **Hardware:** 4-DOF Robotic Arm, Microcontrollers
 
-![](claw.jpg)                      ![](camera.jpg)
+![](claw.png)                      ![](camera.png)
 
 ---
 
