@@ -6,7 +6,7 @@ A vision-guided assembly system designed for the **Zhejiang Provincial Undergrad
 ### Tech Stack
 *   **Software:** Python, C++, YOLOv5, OpenCV
 *   **Edge Device:** MaixCam (RISC-V embedded vision module)
-*   **Hardware:** 4-DOF Robotic Arm, Microcontrollers, UART
+*   **Hardware:** 4-DOF Robotic Arm, Microcontrollers
 
 ---
 
