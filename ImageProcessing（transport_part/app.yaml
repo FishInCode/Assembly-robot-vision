@@ -1,0 +1,13 @@
+id: image_process_3
+name: 图像处理3
+version: 1.9.0
+author: Fred
+icon: app.png
+desc: >-
+  关于机器人装配赛的图像处理应用，仅区分圆和其他三个的识别（圆可以抓准，但其他不保证抓准)，没有发送力度，区分矩形和梯形（也许？ 但较慢）  p.s.
+  此代码适用于传送带45%，放大了图像，专门用于决赛一抓即放的代码。
+files:
+  - __init__.py
+  - Img_Processing_1.py
+  - main.py
+  - UART.py

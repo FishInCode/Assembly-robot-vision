@@ -1,0 +1,11 @@
+id: rotary_table_control
+name: R.T.C.
+version: 1.3.0
+author: 于沈彤
+icon: app.png
+desc: 接收数据，控制转盘的转角，发送角度，仅有左右移动，决赛(欸就是玩玩了
+files:
+  - __init__.py
+  - Img_Processing_3.py
+  - main.py
+  - UART.py
