@@ -32,8 +32,8 @@ A vision-guided assembly system designed for the **Zhejiang Provincial Undergrad
 ---
 
 ## Acknowledgements
-*   **Academic Advisors:** [填写指导老师名字] at [填写学校], for his valuable guidance on system integration.
-*   **Team Members:** [填写队友名字], for their collaboration in mechanical design and integration testing.
+*   **Academic Advisors:** Mr.Zhu at ZJGSU, for his valuable guidance on system integration.
+*   **Team Members:** Miss. YU & Mr.Shi, for their collaboration in mechanical design and integration testing.
 
 ---
 *Maintained by FishInCode.*
