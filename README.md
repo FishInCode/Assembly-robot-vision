@@ -3,10 +3,14 @@
 ## Project Overview
 A vision-guided assembly system designed for the **Zhejiang Provincial Undergraduate Robotics Competition**. The robot identifies workpieces on a conveyor belt, locates target holes on a rotating disc, and controls a 4-DOF robotic arm to assemble them.
 
+![the structure](structure.jpg)
+
 ### Tech Stack
 *   **Software:** Python, C++, YOLOv5, OpenCV
 *   **Edge Device:** MaixCam (RISC-V embedded vision module)
 *   **Hardware:** 4-DOF Robotic Arm, Microcontrollers
+
+![](claw.jpg)                      ![](camera.jpg)
 
 ---
 
