@@ -46,3 +46,4 @@ A vision-guided assembly system designed for the **Zhejiang Provincial Undergrad
 *   This repository includes competition code (vision part) and the training dataset for Maxicam module.
 ---
 *Maintained by FishInCode.*
+*For more detail, contact me*
